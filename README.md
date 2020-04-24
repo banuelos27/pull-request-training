@@ -1,2 +1,2 @@
 # pull-request-training
-testing pull request
+Testing the workflow to submit a pull request.
